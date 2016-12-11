@@ -1,0 +1,493 @@
+{
+  "settings": {
+    "name": "For Prem by Threeis",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 23,
+    "versionPublish": "3.9.2",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/threeis-logo-transparent-19-128x128-8.png",
+              "height": 128,
+              "alt": "THREEIS",
+              "link": "http://www.3is.co",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.3is.co\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">THREEIS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-2\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-3\">OFFER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-5\">RECOMMENDATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-f\">TAKE THE NEXT STEP</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/writing-2000x1332-52.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Branding Proposal&nbsp;<div>for Eunike Design Studio</div>",
+          "text": "<br>Prepared for Eunike Design Studio<br>By Jennifer Eunike // jennifer@3is.co",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#content8-2\" data-toolbar=\"-mbrBtnMove\">WHAT YOU NEED</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table2-3\" data-toolbar=\"-mbrBtnMove\">WHAT YOU GET</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#msg-box8-5\" data-toolbar=\"-mbrBtnMove\">WHAT WE RECOMMEND</a>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-2",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fabric-2000x987-55.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "WHAT YOU NEED",
+          "caption": "<p>\"A feminine-looking online shopping website for a calligraphy &amp; design service, and logo design.\"</p>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            "UL": {
+              "font-size": "9px"
+            },
+            "P": {
+              "color": "#000000",
+              "font-size": "10px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": false,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "hidden"
+          },
+          "title": "DESIGN SERVICE -<br>WHAT YOU GET",
+          "subtitle": "Our service offerings based on your specific need - no hassle, no hidden fees.",
+          "label1": "HOT!",
+          "title1": "BASIC",
+          "subtitle1": "Website development and corporate identity design",
+          "currency1": "Rp",
+          "price1": "3,500K",
+          "period1": "",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 logo options</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">2 business card design options</span></li><li class=\"list-group-item\">Corporate colors &amp; fonts</li><li class=\"list-group-item\">2 revisions of the chosen logo &amp; business card design</li><li class=\"list-group-item\">Web development of a responsive HTML site with online shopping feature - max 5 pages</li><li class=\"list-group-item\">2 revisions of website design</li><li class=\"list-group-item\">1 year of hosting &amp; domain</li><li class=\"list-group-item\">1 email domain</li></ul><p><br></p><p><i>Note: after the first year, domain and hosting will be Rp 500K per year</i></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "CONVENIENT",
+          "subtitle2": "Website development, content creation &amp; management, corporate identity design<br>",
+          "currency2": "Rp",
+          "price2": "6,000K",
+          "period2": "",
+          "description2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 logo options</li><li class=\"list-group-item\">2 business card design options</li><li class=\"list-group-item\">Corporate colors &amp; fonts</li><li class=\"list-group-item\">2 revisions of the chosen logo &amp; business card design</li><li class=\"list-group-item\">3 boxes of printed business cards</li><li class=\"list-group-item\">Web development of a responsive HTML site with online shopping feature - max 5 pages</li><li class=\"list-group-item\">2 revisions of website design</li><li class=\"list-group-item\">Copywriting of website content</li><li class=\"list-group-item\">Content update / edits once a month</li><li class=\"list-group-item\">1 year of hosting &amp; domain</li><li class=\"list-group-item\">3 email domain</li></ul><p><br></p><p><i>Note: after the first year, domain and hosting will be Rp 500K per year</i></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "FULL SERVICE",
+          "subtitle3": "Website development &amp; management, corporate identity design, website and social media maintenance",
+          "currency3": "Rp",
+          "price3": "18,000K",
+          "period3": "",
+          "description3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 logo options</li><li class=\"list-group-item\">2 business card design options</li><li class=\"list-group-item\">Corporate colors &amp; fonts</li><li class=\"list-group-item\">2 revisions of the chosen logo &amp; business card design</li><li class=\"list-group-item\">5 boxes of printed business cards</li><li class=\"list-group-item\">Web development of a responsive HTML site with online shopping feature - max 5 pages</li><li class=\"list-group-item\">2 revisions of website design</li><li class=\"list-group-item\">Copywriting of website content</li><li class=\"list-group-item\">Content update / edits once a month</li><li class=\"list-group-item\">1 year of hosting &amp; domain</li><li class=\"list-group-item\">5 email domain</li><li class=\"list-group-item\">Website traffic analysis</li><li class=\"list-group-item\">Set up blog and social media channels</li><li class=\"list-group-item\">1 blog post per week, for a year</li><li class=\"list-group-item\">3 Facebook and Instagram posts per week, for a year</li><li class=\"list-group-item\">1 Facebook / Instagram ad per week, for a year</li></ul><p><br></p><p><i>Note: after the first year, domain and hosting will be Rp 500K per year</i></p>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "More details",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/consultancy-2000x1333-60.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "BEYOND DESIGN -<br>WHAT WE RECOMMEND",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Branding Consulting Service",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "LI": {
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>We will undergo these 6 phases with you and develop a unique solution according to your specific needs:</p><ol><li><b>Discover - </b><span style=\"line-height: 1.5;\">gaining a clear and comprehensive insight into your business and its main objectives. In discovery phase, we discover in detail about your target audience(s), short and long term marketing and sales objectives and key competitors. We also invite discussion of your business’ values and your individual visual preferences.&nbsp;</span></li><li><span style=\"line-height: 1.5;\"><b>Ideation - </b>generating solutions to your need. Once we feel confident that we have fully understood the brief, we begin the idea-generation phase, which may include brainstorming with our project team and discuss every possibility before finally reducing the possibilities into a few most valuable ideas which we will develop further.</span></li><li><span style=\"line-height: 1.5;\"><b>Presentation - </b>presenting the proposed visual identity to you, along with proposed social media channels and languages used in communicating with clients and prospects (ex: formal, casual, witty, etc). We will present 3 concepts of logo design with the accompanying color palettes, along with the underlying reasons behind their creation.&nbsp;</span></li><li><span style=\"line-height: 1.5;\"><b>Feedback / revisions - </b>listening to your feedback and revising the initial concept until it reaches both your satisfaction and our ideals. In this stage, you can let us know what you think about our proposed solutions, and we will tweak them. You will have 3 chances of free revisions, and any further revisions will be quoted per hour.</span></li><li><span style=\"line-height: 1.5;\"><b>Execution - </b>getting the approved visual identity and other branding elements to life. We will provide you the full logo set and business card, build your website according to the branding, set up your social media channels and administer them.</span></li></ol><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">What you get:</span></p><ol><li>Maximum XX hours of branding consulting with our branding consultant</li><li><span style=\"line-height: 1.5;\">The entire Full Service deliverables listed above</span></li></ol><p><br></p><p>Costs involved</p><p>Rp 25,000,000 (?)</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/homepage-2000x1333-72.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "ABOUT THREEIS",
+          "text": "<p>We are a community of marketing aficionado; putting together our unique skills and capabilities to provide marketing solutions, services and consultancy any way you need. Whether you are looking for a quick, one-off design &amp; creative solution your business currently needs, an extra pair of hands to help manage your marketing activities, or an expert to sit with you and map your business directions, we surely have something for you.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://www.3is.co\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT OUR CORPORATE SITE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-f",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "TAKE THE NEXT STEP",
+          "subtitle": "Let us know how you would like to proceed.",
+          "form": {
+            "action": "jennifer_swara@yahoo.com",
+            "alerts": {
+              "success": "Thanks for reaching out to us. We will get back to you shortly."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Prem"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f28281",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Threeis // Prepared specially for Eunike Design Studio"
+        }
+      ]
+    }
+  }
+}
